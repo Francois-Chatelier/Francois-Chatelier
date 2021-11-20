@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **francoisdevcode@gmail.com**
 
-- 📄 Know about my experiences [I’m studying as a pastry apprentice, unfortunately, I had to stop everything because of allergies.. I went on to work in the food industry and events and then decided it was time to retrain. Web development.](I’m studying as a pastry apprentice, unfortunately, I had to stop everything because of allergies.. I went on to work in the food industry and events and then decided it was time to retrain. Web development.)
+- 📄 Know about my experiences 
+#### I’m studying as a pastry apprentice, unfortunately, I had to stop everything because of allergies.. I went on to work in the food industry and events and then decided it was time to retrain. Web development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
