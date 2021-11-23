@@ -1,5 +1,6 @@
-<h1 align="center">Hi 🤘🏻👀🤘🏻, I'm François Chatelier</h1>
-<h3 align="center">A brand new frontend developer from Vendée, FRANCE</h3>
+<h1 align="start">Hi 🤘🏻👀🤘🏻, I'm François Chatelier</h1>
+<h3 align="start">A brand new frontend developer from Vendée, FRANCE</h3>
+<div class="tenor-gif-embed"  align="left" data-postid="18840349" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/git-push-pull-code-programming-gif-18840349">Git Push GIF</a>from <a href="https://tenor.com/search/git-gifs">Git GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francois-chatelier&label=Profile%20views&color=0e75b6&style=flat" alt="francois-chatelier" /> </p>
 
