@@ -1,4 +1,4 @@
-<img align="right" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/dise%C3%B1adores-3.gif" width="430" height="350">
+<img align="right" src="https://tenor.com/view/git-push-pull-code-programming-gif-18840349" width="430" height="350">
 
 <h1 align="start">Hi 🤘🏻👀🤘🏻, I'm François Chatelier</h1>
 <h3 align="start">A brand new frontend developer from Vendée, FRANCE</h3>
