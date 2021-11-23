@@ -1,4 +1,4 @@
-<img align="right" src="https://c.tenor.com/Oba_d1ctlCcAAAAd/git-push.gif" width="430" height="350">
+<img align="right" src="https://c.tenor.com/Oba_d1ctlCcAAAAd/git-push.gif" width="430" height="300">
 
 <h1 align="start">Hi 🤘🏻👀🤘🏻, I'm François Chatelier</h1>
 <h3 align="start">A brand new frontend developer from Vendée, FRANCE</h3>
