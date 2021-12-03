@@ -1,4 +1,4 @@
-<img align="right" src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47k9i4sv7jq0tnxe47dex6l0ym9yb1cui4u7ftht92&rid=giphy.gif&ct=g" width="430" height="400"> 
+<img align="right" src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47k9i4sv7jq0tnxe47dex6l0ym9yb1cui4u7ftht92&rid=giphy.gif&ct=g" width="330" height="300"> 
 
 <h1 align="start">Hi 🤘🏻👀🤘🏻, I'm François Chatelier</h1>
 <h3 align="start">A brand new frontend developer from Vendée, FRANCE</h3>
